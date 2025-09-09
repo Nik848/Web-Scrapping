@@ -1,2 +1,2 @@
 # Web-Scrapping
-It contains my web scrapping projects
+It contains minor web scrapping projects from different websites for practice
